@@ -1,0 +1,57 @@
+[
+    {
+      "Id": "001",
+      "Cover": "https://i.ibb.co.com/0VR3JqD/2.png",
+      "Title": "Beneath the Stars",
+      "Author": "Amelia Thompson",
+      "Author_img": "https://i.ibb.co.com/gg7RVYy/boy1.png",
+      "Posted Date": "Jun 14 (4 Days ago)",
+      "Reading Time": 9 ,
+      "Hashtags": [
+        "beginners",
+         "es6"
+
+         ]
+    },
+    {
+      "Id": "002",
+      "Cover": "https://i.ibb.co.com/pfsmxMs/1.jpg",
+      "Title": "The Silent Whisper",
+      "Author": "Benjamin Lee",
+      "Author_img": "https://i.ibb.co.com/T0Gc88d/boy2.jpg",
+      "Posted Date": "Jun 14 (4 Days ago)",
+      "Reading Time": 11,
+      "Hashtags": [
+        "beginners",
+        "es6"
+        ]
+    },
+    {
+      "Id": "003",
+      "Cover": "https://i.ibb.co.com/BCJxTw5/3.png",
+      "Title": "Echoes of the Lost",
+      "Author": "Charlotte Adams",
+      "Author_img": "https://i.ibb.co.com/CVZ3gX5/girl1.jpg",
+      "Posted Date": "Jun 14 (4 Days ago)",
+      "Reading Time": 7,
+      "Hashtags": [
+        "beginners",
+        "es6"
+        ]
+    },
+    {
+      "Id": "004",
+      "Cover": "https://i.ibb.co.com/BCJxTw5/3.png",
+      "Title": "Shadows in the Wind",
+      "Author": "David Carter",
+      "Author_img": "https://i.ibb.co.com/n7Z59sm/girl2.jpg",
+      "Posted Date": "Jun 14 (4 Days ago)",
+      "Reading Time": 10,
+      "Hashtags": [
+        "beginners",
+        "es6"
+    ]
+    }
+  
+  ]
+  
